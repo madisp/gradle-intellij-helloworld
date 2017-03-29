@@ -1,0 +1,9 @@
+apply plugin: 'org.jetbrains.intellij'
+
+intellij {
+  version = 'IC-2017.1'
+}
+
+dependencies {
+  compile project(':plugin-library')
+}

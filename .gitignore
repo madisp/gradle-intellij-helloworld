@@ -1,0 +1,10 @@
+/.idea/
+/.gradle/
+/classes/
+/build/
+/plugin/classes/
+/plugin-library/classes/
+/plugin/build/
+/plugin-library/build/
+*.iml
+*.swp

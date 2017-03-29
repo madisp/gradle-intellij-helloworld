@@ -1,0 +1,13 @@
+<idea-plugin version="2">
+  <id>HelloWorldPlugin</id>
+  <name>HelloWorldPlugin</name>
+  <vendor email="madis.pink@gmail.com" url="http://madis.pink">Madis Pink</vendor>
+
+  <description>
+    Simple hello world plugin
+  </description>
+
+  <actions>
+    <action class="pink.madis.HelloAction" id="HelloAction" text="Hello world" description="Sends 'Hello world' to the event log" />
+  </actions>
+</idea-plugin>
